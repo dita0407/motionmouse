@@ -26,7 +26,7 @@ import java.awt.event.MouseMotionListener;
 
 /**
  *
- * @author Alif Maheaven
+ * @author Dita Darma Pangestiningrum
  */
 public class GUI extends JFrame implements MouseMotionListener{
     
